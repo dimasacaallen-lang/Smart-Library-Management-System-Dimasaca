@@ -12,3 +12,12 @@ Development Team
 Student Name: Allen Dimasaca
 Course: IT - 3012 System Integration and Architecture 1
 Section: BASIT - SD 2C
+
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
+
